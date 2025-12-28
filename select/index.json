@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゼロのままでいられたら",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-28T13:24:55.825238Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゼロのままでいられたら",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_ゼロのままでいられたら_Official髭男dism.txt"
+    }
+  ]
+}
